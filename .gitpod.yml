@@ -1,0 +1,8 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - name: Install Dependencies
+    command: |
+      pip install -r requirements.txt
+      npm install
