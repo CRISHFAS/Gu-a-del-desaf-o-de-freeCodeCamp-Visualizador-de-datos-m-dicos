@@ -123,9 +123,16 @@ Para contribuir a este proyecto:
 - **Interactividad Avanzada:** Añadir características como la comparación de múltiples conjuntos de datos en un mismo gráfico.
 - **Documentación Adicional:** Incluir tutoriales más detallados y ejemplos prácticos para ayudar a los usuarios a aprovechar al máximo la aplicación.
 
-## Licencia
+- La aplicación facilita la interpretación de datos médicos complejos mediante una interfaz intuitiva que ofrece varias opciones de visualización, incluyendo gráficos de líneas, barras y dispersión. Los usuarios pueden aplicar filtros para explorar los datos desde diferentes perspectivas, lo que ayuda a extraer información valiosa y a tomar decisiones basadas en datos.
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+### Características Clave:
+
+- **Carga de Datos:** Importación de datos médicos desde archivos CSV.
+- **Visualización Interactiva:** Gráficos interactivos que permiten explorar y analizar datos.
+- **Filtros Dinámicos:** Aplicación de filtros para segmentar los datos de manera precisa.
+- **Exportación de Resultados:** Descarga de gráficos y datos filtrados en formatos útiles.
+
+El proyecto se basa en tecnologías modernas como Python, Flask, Pandas y Matplotlib, lo que asegura un rendimiento eficiente y una experiencia de usuario fluida. La aplicación está diseñada para ser fácilmente extensible y personalizable para satisfacer necesidades específicas de análisis de datos.
 
 ---
 
